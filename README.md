@@ -15,4 +15,4 @@ Repositório criado para praticar Git/GitHub durante a Formação GitHub Certifi
 ## 📚 Próximos Passos
 - [ ] Adicionar primeiros scripts Python
 - [ ] Praticar branches e pull requests
-- [ ] Participar de projetos open source
+- [ ] Participar de projetos open source  
