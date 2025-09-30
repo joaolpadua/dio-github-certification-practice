@@ -1,5 +1,18 @@
-# meu_primeiro_repositorio_DIO
-Repositório de testes de autenticações.
+# 🔧 Meu Primeiro Repositório - DIO
 
+Repositório criado para praticar Git/GitHub durante a Formação GitHub Certification.
 
-#alteração!
+## 🎯 Objetivo
+- Praticar comandos Git
+- Aprender fluxo de trabalho GitHub  
+- Preparar para projetos reais
+
+## 🛠️ Tecnologias
+- Git
+- GitHub
+- Markdown
+
+## 📚 Próximos Passos
+- [ ] Adicionar primeiros scripts Python
+- [ ] Praticar branches e pull requests
+- [ ] Participar de projetos open source
